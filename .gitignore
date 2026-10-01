@@ -17,3 +17,6 @@ data/raw/
 
 #notes
 notes/
+
+# Processed data
+data/processed/
